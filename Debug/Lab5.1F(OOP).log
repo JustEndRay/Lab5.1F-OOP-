@@ -1,0 +1,13 @@
+﻿  Bus.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.h(25,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Bus.cpp(6,57): warning C4244: 'return': conversion from 'const double' to 'int', possible loss of data
+  Car.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.h(25,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.cpp(39,93): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.cpp(60,77): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.cpp(61,1): warning C5043: 'operator >>': exception specification does not match previous declaration
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.h(34): message : see declaration of 'operator >>'
+  Source.cpp
+D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Car.h(25,5): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+  Generating Code...
+  Lab5.1F(OOP).vcxproj -> D:\Рабочий стол\дз\2семестр\ООП\Лаб 5.1-5.8\Lab5.1F(OOP)\Debug\Lab5.1F(OOP).exe
